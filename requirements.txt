@@ -1,0 +1,4 @@
+gradio
+torchaudio
+numpy
+hf-transfer
